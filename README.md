@@ -44,6 +44,9 @@ It involves the registration mechanism for **a new user**.
 It involves **update** mechanism for the registrated user by passing one's *ID*.
 > **PUT:** {{url}}/api/user/:id
 
+#### PARAMETER
+> **userId:** XYZ098
+
 ##### HEADER
 > **Content-TYPE:** application/Json
 
@@ -59,6 +62,9 @@ It involves **update** mechanism for the registrated user by passing one's *ID*.
 ####  4.DELETE Method
 It **deletes a user** associated with the particular ID, passed during the request from User Interface.
 > **DELETE:** {{url}}/api/user/:id
+
+#### PARAMETER
+> **userId:** XYZ098
 
 ##### HEADER
 > **Content-TYPE:** application/Json
@@ -108,6 +114,9 @@ It involves the registration mechanism for **a new truck**.
 It involves **update** mechanism for the registrated truck by passing one's *ID*.
 > **PUT:** {{url}}/api/user/:id
 
+#### PARAMETER
+> **truckId:** XYZ098
+
 ##### HEADER
 > **Content-TYPE:** application/Json
 
@@ -123,6 +132,9 @@ It involves **update** mechanism for the registrated truck by passing one's *ID*
 ####  4.DELETE Method
 It **deletes a truck** associated with the particular ID, passed during the request from User Interface.
 > **DELETE:** {{url}}/api/truck/:id
+
+#### PARAMETER
+> **truckId:** XYZ098
 
 ##### HEADER
 > **Content-TYPE:** application/Json
