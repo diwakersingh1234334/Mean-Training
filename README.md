@@ -7,9 +7,9 @@
 >HTTP methods related to **USER** member
 
 #### -GET Method
-''''
-<span style="background-color:green">Mrs. Robinson</span>
-''''
+
+    <span style="background-color:green">Mrs. Robinson</span>
+
 
 
 
