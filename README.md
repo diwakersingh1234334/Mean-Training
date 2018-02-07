@@ -4,6 +4,6 @@
 >methods required to be invoked from the *Application USER INTERFACE*.
 
 ## USER
-[![Image]https://img.shields.io/badge/GET:-{{url}}/api/user-f39f37.svg]
+[![Image]https://img.shields.io/badge/GET-user-f39f37.svg]
 
 
