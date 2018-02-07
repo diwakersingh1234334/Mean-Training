@@ -8,7 +8,7 @@
 
 ####  1.GET Method
 It will fetch all the registered **users** from the database as a successfull response.  
-``` **GET:** {{url}}/api/user ```
+> **GET:** {{url}}/api/user
 
 ##### HEADER
 > **Content-TYPE:** application/Json
@@ -24,7 +24,7 @@ It will fetch all the registered **users** from the database as a successfull re
 ####  2.POST Method
 It involves the registration mechanism for **a new user**.
  ```
- **POST:** {{url}}/api/user
+ POST: {{url}}/api/user
 ```
 ##### HEADER
 > **Content-TYPE:** application/Json
@@ -43,7 +43,7 @@ It involves the registration mechanism for **a new user**.
 ```
 ####  3.PUT Method
 It involves **update** mechanism for the registrated user by passing one's *ID*.
-``` **PUT:** {{url}}/api/user/:id ```
+> **PUT:** {{url}}/api/user/:id
 
 ##### PARAMETER
 > **userId:** XYZ098
@@ -62,7 +62,7 @@ It involves **update** mechanism for the registrated user by passing one's *ID*.
 ```
 ####  4.DELETE Method
 It **deletes a user** associated with the particular ID, passed during the request from User Interface.
-``` **DELETE:** {{url}}/api/user/:id ```
+> **DELETE:** {{url}}/api/user/:id
 
 ##### PARAMETER
 > **userId:** XYZ098
@@ -79,7 +79,7 @@ It **deletes a user** associated with the particular ID, passed during the reque
 
 ####  1.GET Method
 It will fetch all the registered **trucks details** from the database as a successfull response.  
-``` **GET:** {{url}}/api/truck ```
+> **GET:** {{url}}/api/truck
 
 ##### HEADER
 > **Content-TYPE:** application/Json
@@ -94,7 +94,7 @@ It will fetch all the registered **trucks details** from the database as a succe
 ```
 ####  2.POST Method
 It involves the registration mechanism for **a new truck**.
-``` **POST:** {{url}}/api/truck ```
+> **POST:** {{url}}/api/truck
 
 ##### HEADER
 > **Content-TYPE:** application/Json
@@ -113,7 +113,7 @@ It involves the registration mechanism for **a new truck**.
 ```
 ####  3.PUT Method
 It involves **update** mechanism for the registrated truck by passing one's *ID*.
-``` **PUT:** {{url}}/api/user/:id ```
+> **PUT:** {{url}}/api/user/:id
 
 ##### PARAMETER
 > **truckId:** XYZ098
@@ -132,7 +132,7 @@ It involves **update** mechanism for the registrated truck by passing one's *ID*
 ```
 ####  4.DELETE Method
 It **deletes a truck** associated with the particular ID, passed during the request from User Interface.
-``` **DELETE:** {{url}}/api/truck/:id ```
+> **DELETE:** {{url}}/api/truck/:id
 
 ##### PARAMETER
 > **truckId:** XYZ098
@@ -144,5 +144,4 @@ It **deletes a truck** associated with the particular ID, passed during the requ
 ```json
 "response":"truck deleted successfully"
 ```
-
 
