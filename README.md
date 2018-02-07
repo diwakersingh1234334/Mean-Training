@@ -23,8 +23,9 @@ It will fetch all the registered **users** from the database as a successfull re
 ```
 ####  2.POST Method
 It involves the registration mechanism for **a new user**.
-> **POST:** {{url}}/api/user
-
+ ```
+ POST: {{url}}/api/user
+```
 ##### HEADER
 > **Content-TYPE:** application/Json
 
