@@ -4,8 +4,7 @@
 
 
 # FeedHenry Hello World MBaaS Server
-[![Dependency Status](https://img.shields.io/david/feedhenry-templates/helloworld-cloud.svg?style=flat-square)](https://david-dm.org/feedhenry-templates/helloworld-cloud)
-[![Dependency Status](https://www.google.com)]
+[![Dependency Status](https://img.shields.io/david/feedhenry-templates/helloworld-cloud.svg?style=flat-square)]
 
 This is a blank 'hello world' FeedHenry MBaaS. Use it as a starting point for building your APIs. 
 
