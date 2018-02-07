@@ -38,7 +38,7 @@ It involves the registration mechanism for **a new user**.
 ```
 ##### Response
 ```json
-"new user Registered successfully"
+"response":"new user Registered successfully"
 ```
 ####  3.PUT Method
 It involves **update** mechanism for the registrated user by passing one's *ID*.
@@ -54,7 +54,7 @@ It involves **update** mechanism for the registrated user by passing one's *ID*.
 ```
 ##### Response
 ```json
-"user details updated successfully"
+"response":"user details updated successfully"
 ```
 ####  4.DELETE Method
 It **deletes a user** associated with the particular ID, passed during the request from User Interface.
@@ -65,7 +65,7 @@ It **deletes a user** associated with the particular ID, passed during the reque
 
 ##### Response
 ```json
-"user deleted successfully"
+"response":"user deleted successfully"
 ```
 
 
