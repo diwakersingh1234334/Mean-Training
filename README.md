@@ -4,10 +4,11 @@
 >methods required to be invoked from the *Application USER INTERFACE*.
 
 ##  1. USER
->HTTP methods related to **USER** member
+>This includes all the HTTP methods related to **USER** member of SOS Application. 
 
 ####  1.GET Method
->GET: {{url}}/api/user
+It will fetch all the **users** of the application from the database.  
+> **GET:** {{url}}/api/user
 
 ##### HEADER
 > **Content-TYPE:** application/Json
