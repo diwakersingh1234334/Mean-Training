@@ -40,8 +40,8 @@ It involves the registration mechanism for **a new user**.
 ```json
 "new user Registered successfully"
 ```
-####  2.PUT Method
-It involves **update** mechanism for the registrated user.
+####  3.PUT Method
+It involves **update** mechanism for the registrated user by passing one's *ID*.
 > **PUT:** {{url}}/api/user/:id
 
 ##### HEADER
@@ -56,7 +56,16 @@ It involves **update** mechanism for the registrated user.
 ```json
 "user details updated successfully"
 ```
+####  4.DELETE Method
+It **deletes a user** associated with the particular ID, passed during the request from User Interface.
+> **DELETE:** {{url}}/api/user/:id
 
+##### HEADER
+> **Content-TYPE:** application/Json
 
+##### Response
+```json
+"user deleted successfully"
+```
 
 
