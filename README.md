@@ -3,11 +3,12 @@
 >for the **SOS Application**. It provides all HTTP 
 >methods required to be invoked from the *Application USER INTERFACE*.
 
-## *USER
+## * USER
 >HTTP methods related to **USER** member
 
-#### -GET Method
-```<span style="background-color:green">Mrs. Robinson</span>```
+#### - GET Method
+<span style="background-color:green">Mrs. Robinson</span>
+"And here's to you, <span style="background-color:green">Mrs. Robinson</span>, Jesus loves you more than you will know."
 
 
 
