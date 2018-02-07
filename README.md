@@ -17,9 +17,10 @@ It will fetch all the **users** of the application from the database.
 ```json
 "userName":"Smith Jones",
 "UserId":"ABC123",
-emailId:"smith.jones@xyz.com",
+"emailId":"smith.jones@xyz.com",
 "contactNo.":1234567890
-"address":"Denmark"```
+"address":"Denmark" 
+```
 
 
 
